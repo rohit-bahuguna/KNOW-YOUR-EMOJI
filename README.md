@@ -10,7 +10,7 @@ A web App which helps users to find there fevorite emoji name
 
 
 # Problem Statement: 
- - i have to buid a recommendation app [like this ](https://neog.camp/guide/markEight#markeight)
+ - i have to buid Know Your Emoji app [like this ](https://neog.camp/guide/markEight#markeight)
 
 
 # How to use:
